@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Intership/static/css/main.f955b7c8.css",
+    "main.js": "/Intership/static/js/main.4d047ce6.js",
+    "static/js/453.670e15c7.chunk.js": "/Intership/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Intership/index.html",
+    "main.f955b7c8.css.map": "/Intership/static/css/main.f955b7c8.css.map",
+    "main.4d047ce6.js.map": "/Intership/static/js/main.4d047ce6.js.map",
+    "453.670e15c7.chunk.js.map": "/Intership/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f955b7c8.css",
+    "static/js/main.4d047ce6.js"
+  ]
+}
